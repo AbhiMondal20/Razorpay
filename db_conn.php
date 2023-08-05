@@ -6,7 +6,7 @@
 
     $conn = mysqli_connect($host, $user, $pass, $db);
 if($conn){
-    // echo("Success");
+    echo("Success");
 }
 
 
